@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Overlay Demo</string>
+    <string name="subtitle">Canvas bounding-box renderer — no game access</string>
+    <string name="btn_start">Start Overlay</string>
+    <string name="btn_stop">Stop Overlay</string>
+    <string name="hint">Start the overlay, then press Home to see it over your launcher.</string>
+</resources>
